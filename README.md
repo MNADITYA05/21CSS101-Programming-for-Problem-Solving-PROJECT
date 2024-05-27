@@ -4,6 +4,8 @@ Welcome to the Tkinter Password Generator & Strength Checker project!
 This application generates secure, random passwords and checks the strength of manually entered passwords using a graphical user interface built with Tkinter.
 
 Overview
+This project has been developed in order to complete one of the lab courses of my college -21CSS101J-PROGRAMMING FOR PROBLEM SOLVING. 
+
 This application provides two main functionalities:       
 
 Password Generator: 
@@ -14,7 +16,7 @@ Features
 Generate passwords of customizable length (minimum 6 characters)
 Display the strength of generated passwords
 Check the strength of manually entered passwords
-Simple and intuitive graphical user interface
+Simple and intuitive graphical user interface.
 
 Installation
 To run the Tkinter Password Generator & Strength Checker, you need to have Python installed on your machine along with the Tkinter library.
