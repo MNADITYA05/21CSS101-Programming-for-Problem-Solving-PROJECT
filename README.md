@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/BreadcrumbsTkinter-Password-Generator-Project.git
+git clone https://github.com/your-username/Tkinter-Password-Generator-Project.git
 
 cd Tkinter-Password-Generator-Project
 
